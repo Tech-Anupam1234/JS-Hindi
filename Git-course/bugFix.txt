@@ -3,3 +3,5 @@ This a file for fixing the bug.
 fixed another bug.
 
 Add another marketing message section.
+
+add footer note.
