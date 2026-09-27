@@ -1,3 +1,6 @@
 This a file for fixing the bug.
 
 fixed another bug.
+
+another bug detected and fixed.
+one more bug detected and fixed
