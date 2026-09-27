@@ -9,4 +9,5 @@ git init	        | Naya git repository start karo              |
 git status	        | Changes check karo                          |
 git add .	        | Sabhi changes ko save ke liye ready karo    |
 git commit -m "msg"	| Changes ko permanent save karo              |
-git log	            | Purani history dekho                        |-------------------------------------------------------------------
+git log	            | Purani history dekho                        |
+git log --oneline   | purani history one line me dekhne ke liye   |                        -------------------------------------------------------------------
