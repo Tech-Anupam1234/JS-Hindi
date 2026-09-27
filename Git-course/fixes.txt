@@ -1,3 +1,2 @@
 This a file for fixing the bug.
-
-add footer note.
+merge branch bug-fix-1

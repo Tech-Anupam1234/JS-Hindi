@@ -2,6 +2,11 @@ This a file for fixing the bug.
 
 fixed another bug.
 
+<<<<<<< HEAD
 Add another marketing message section.
 
 add footer note.
+=======
+another bug detected and fixed.
+one more bug detected and fixed
+>>>>>>> merge branch bug-fix-1
