@@ -35,5 +35,3 @@ console.log(typeof outsideTemp);
 console.log(typeof myFunction);
 console.log(typeof anotherId);
 
-
-
