@@ -29,7 +29,7 @@ const myFunction =function(){
     console.log("Hello,World");
     
 }
-
+//check the types
 console.log(typeof bigNumber);
 console.log(typeof outsideTemp);
 console.log(typeof myFunction);
