@@ -30,8 +30,10 @@ const myFunction =function(){
     
 }
 //check the types
-console.log(typeof bigNumber);
-console.log(typeof outsideTemp);
-console.log(typeof myFunction);
-console.log(typeof anotherId);
+// console.log(typeof bigNumber);
+// console.log(typeof outsideTemp);
+// console.log(typeof myFunction);
+// console.log(typeof anotherId);
+console.log(typeof id);
+
 
