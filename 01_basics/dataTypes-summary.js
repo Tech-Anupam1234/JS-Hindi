@@ -12,7 +12,7 @@ let userEmail;
 const id =Symbol('123')
 const anotherId =Symbol('123')
 
-console.log(id===anotherId);
+// console.log(id===anotherId);
 
 const bigNumber =3456789909899n
 
@@ -26,7 +26,7 @@ let myObj ={
 } 
 
 const myFunction =function(){
-    console.log("Hello,World");
+    // console.log("Hello,World");
     
 }
 //check the types
@@ -34,6 +34,29 @@ const myFunction =function(){
 // console.log(typeof outsideTemp);
 // console.log(typeof myFunction);
 // console.log(typeof anotherId);
-console.log(typeof id);
+// console.log(typeof id);
+
+//========================================
+//Stack(Primitive) and Heap (Non-Primitive)
+
+let myYoutubename ="techAnupam.com"
+
+let anothername =myYoutubename
+
+anothername ="CodeWithAnupam";
+
+// console.log(myYoutubename);
+// console.log(anothername);
+
+let userOne={
+    email:"userOne@google.com",
+    upi:"useOne@ybl"
+}
+
+let userTwo=userOne
+userTwo.email ="anupam@google.com"
+
+console.log(userOne);
+console.log(userTwo);
 
 
